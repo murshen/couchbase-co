@@ -1,7 +1,7 @@
 couchbase-co
 ============
 
-couchbase-co for node-couchbase
+A Couchbase client for co.
 
 ## Usage
 
